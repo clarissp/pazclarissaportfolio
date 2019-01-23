@@ -10,4 +10,4 @@
 Since GIS is one of the many ways to visualize data, I am really hoping to learn the best practices of how to visualize data so that I can make maps that easily convey data findings. 
 
 # Portfolio 
-<center> <i> Examples of my work will be included here </i> </center>
+<i><center> Examples of my work will be included here </center></i>
