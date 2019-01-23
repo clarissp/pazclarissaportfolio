@@ -1,6 +1,6 @@
 # Welcome!
 <br>
-This is my portfolio for Telling Stories with Data. 
+<center> This is my portfolio for Telling Stories with Data. </center>
 
 # About Me 
 <br>
