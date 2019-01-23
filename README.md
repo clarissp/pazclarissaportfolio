@@ -1,4 +1,4 @@
-# Clarissa Paz's Portfolio 
+# Welcome!
 This is my portfolio for Telling Stories with Data! 
 
 # About Me 
