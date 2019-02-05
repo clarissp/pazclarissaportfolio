@@ -45,3 +45,5 @@ This is what I came up with when attempting to visualize the racial breakdown an
 ![Image of my attempt to redesign a data visualization](/DataViz2.png)
 
 <p> When creating my wireframes for this redesign, I initally wanted to somehow place the people across the map. However when I asked for feedback from two people, they were very confused by my design choices. They could not figure out what story I was trying to convey. It is for this reason that I seperated the people from the map. Another feedback that I incorporated was my choice of color. Initially, I symbolized the people with the same color ramp in my map. However, this lead to one of the viewers asking "Are they many Asians that live in Mississippi?". My inital thought for including that was to have complementary colors between the people and the map. However, this was clearly not how it was being viewed, so I chose to symbolize the people with a different color ramp. </p>
+
+Which visual do you think tells the better story? 
