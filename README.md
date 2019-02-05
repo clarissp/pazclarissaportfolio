@@ -35,7 +35,8 @@ Since GIS is one of the many ways to visualize data, I am really hoping to learn
 # Data Visualization Experiment 2.0 
 Last week I had the opportunity to redesign a visualization that was given to me in class. This week I had the lovely opportunity to redesign a visualization of my choosing. My first thought was to find a data visualization from the New York Times since they are famous for finding innvoative ways to visualize data. The problem I encountered was the inability to download the data they use for the visualizations they made. Of course this aspect was crucial in my ability to redesign an exisiting visualization. 
 
-After scouring the internet for a data visualization that I could find data for, I found an article from the Brookings Institution. The article was showcasing the adverse effects that the citizenship question could have on the 2020 decennial census. The article can be found here: https://www.brookings.edu/blog/the-avenue/2019/01/15/ruling-on-citizenship-question-may-save-the-2020-census/ . The visulization that I wanted to redesign was the following: 
+After scouring the internet for a data visualization that I could find data for, I found an article from the Brookings Institution. The article was showcasing the adverse effects that the citizenship question could have on the 2020 decennial census. The article can be found here: https://www.brookings.edu/blog/the-avenue/2019/01/15/ruling-on-citizenship-question-may-save-the-2020-census/ . The visulization that I wanted to redesign was the following: ![Screenshot of table](/BrookingsTable.png)
+
 
 
 ![Image of my attempt to redesign a data visualization](/DataViz2.png)
