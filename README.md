@@ -55,4 +55,4 @@ This is what I came up with when attempting to visualize the racial breakdown an
 Which visual do you think tells the better story? 
 
 # Solar Project  
-As part of my Telling Stories with Data class, we are tasked with working on a project of our choice to put together all that we have learned on how best to visualize data. Here is a link to the process I went through in compiling my final project [link to final project](finalproject.md)  
+As part of my Telling Stories with Data class, we are tasked with working on a project of our choice to put together all that we have learned on how best to visualize data. Here is a link to the process I went through in compiling my [final project](finalproject.md)  
