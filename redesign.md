@@ -1,1 +1,21 @@
-Blah
+# Data Visualization Experiment 2.0 
+<p>Last week I had the opportunity to redesign a visualization that was given to me in class. This week I had the lovely opportunity to redesign a visualization of my choosing. My first thought was to find a data visualization from the New York Times since they are famous for finding innvoative ways to visualize data. The problem I encountered was the inability to download the data they use for the visualizations they made. Of course this aspect was crucial in my ability to redesign an exisiting visualization. </p>
+
+
+After scouring the internet for a data visualization that I could find data for, I found an article from the Brookings Institution. The article was showcasing the adverse effects that the citizenship question could have on the 2020 decennial census. The article can be found here: https://www.brookings.edu/blog/the-avenue/2019/01/15/ruling-on-citizenship-question-may-save-the-2020-census/ . The visulization that I wanted to redesign was the following: ![Brookings table on noncitizenhouseholds](/BrookingsTable.png) 
+
+<br> 
+
+<p> This visualization stood out to me for multiple reasons, the firt being that I am very much interested in the potential effects that adding the citizenship question could have on the responses recorded in the 2020 decennial census. Thankfully the courts ruled against the addition of this question, but what would have happened if the courts ruled in favor of the addition? According to the aforementioned Brookings article, adding this question could have lead to the "drawing of congressional and state legislative districts that overrepresent whites, older populations, and rural residents." By just looking at the table above, could you have drawn this conclusion? I personally was not able to and is why I chose to attempt to redesign this visualization. </p>
+
+<br>
+
+<p>Since the table contains several variables describing the demographics of residents living in non-citizen households I immediately thought to minimize the number of variables that I would visualize. I specifically wanted to pick the geographical location and racial breakdwon of residents in non-citizen households. Due to my love of GIS, I was clearly biased in choosing to visualize the geographical location. Upon realizing this I showed the table to a fellow Heinzer and to a family member. I asked them which variables stood out the most to them and asked them why they chose those variables. Thankfully both responded with geographical location as being one of the variables that intrigued them the most. When I asked why this was the case? A fellow Heinzer responded by saying that figuring out whether or not the states that had the highest and lowest concentrated of non-citizen households were border states. This student wanted to know this because if the states were not all border states, the data could also be used to refute support of the border wall. My mother on the otherhand just wanted to see the geographical location because she does not know where all the states are located in the United States. The other two variables that were identified were the racial breakdown and community type. It was due to this feedback that I chose to visualize geographical location and racial breakdown. </p>
+<br>
+
+This is what I came up with when attempting to visualize the racial breakdown and geographical location of residents residing in non-citizen households: 
+![Image of my attempt to redesign a data visualization](/DataViz2.png)
+
+<p> When creating my wireframes for this redesign, I initally wanted to somehow place the people across the map. However when I asked for feedback from two people, they were very confused by my design choices. They could not figure out what story I was trying to convey. It is for this reason that I seperated the people from the map. Another feedback that I incorporated was my choice of color. Initially, I symbolized the people with the same color ramp in my map. However, this lead to one of the viewers asking "Are they many Asians that live in Mississippi?". My inital thought for including that was to have complementary colors between the people and the map. However, this was clearly not how it was being viewed, so I chose to symbolize the people with a different color ramp. </p>
+
+Which visual do you think tells the better story? 
