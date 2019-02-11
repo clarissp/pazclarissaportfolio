@@ -10,7 +10,7 @@
 Since GIS is one of the many ways to visualize data, I am really hoping to learn the best practices of how to visualize geospatial data so that I can make maps that easily convey data findings. I also hope to learn what charts, graphs, or tables are the most appropriate for visualizing the various data types.  
 
 # Portfolio 
-<i><center> Examples of my work will be included here </center></i>
+<i><center> Examples of my work can be found below. </center></i>
 
 # Data Visualization Experiment 1.0 
 The first assignment we were tasked with was to redesign a data visualization using web based tools. Take a look at the outputs I came up with [here.](dataviz.md)
