@@ -1,1 +1,3 @@
-Testing to see how to add a new page 
+# Elevating Pennsylvania's Solar Future 
+
+For the final project I choose to focus on the potential for deploying solar in Pennsylvania. I hope to convince my audience that despite the gloomy weather in Pittsburgh, solar is feasible for Pennsylanvai and is worth the investment! By the end of the story, I hope to empower my audience to reach out to Pennsylvania representatives to pass legislation that would ease the deployment of solar. I plan on convincing the audience with various data visualizations that will be showcased through Shorthand. A brief outline on how I plan to tell my story is available [here.](http://preview.shorthand.com/wWfeZSjmxCHmzSZq)
