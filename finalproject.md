@@ -4,4 +4,7 @@ For the final project I choose to focus on the potential for deploying solar in 
 
 # Part 2 
 
-As shown above, the initial stage of my project included creating a brief outline on how I plan to convince my audience to reach out to their representatives to encourage politicans to pass legislation that would increase the deployment of solar. In order to bring this story to life, I created sketches of the data visualizations I would incorporate in my story. I specifically included three visuals that I believe would help support the message of my story. The initial sketches of these are as follows: ![Sketch#1](/Sketch1.png) 
+As shown above, the initial stage of my project included creating a brief outline on how I plan to convince my audience to reach out to their representatives to encourage politicans to pass legislation that would increase the deployment of solar. In order to bring this story to life, I created sketches of the data visualizations I would incorporate in my story. My thought process for the three sketches are as follows: 
+
+###### Sketch #1 
+
