@@ -7,4 +7,4 @@ For the final project I choose to focus on the potential for deploying solar in 
 As shown above, the initial stage of my project included creating a brief outline on how I plan to convince my audience to reach out to their representatives to encourage politicans to pass legislation that would increase the deployment of solar. In order to bring this story to life, I created sketches of the data visualizations I would incorporate in my story. My thought process for the three sketches are as follows: 
 
 ###### Sketch #1 
-
+For my first sketch, I wanted to include a visual on what Pennsyvlania's current energy portfolio looks like. My purpose in including this visual is to show my audience just how small of a slice that renewable energy makes up. Subsequently, I immediately thought to make a pie chart to convey this. This is the initial sketch that I came up with ![sketch1](/Sketch1.png) 
