@@ -18,10 +18,12 @@ The last visual that I wanted to include in my summary is the positive impact th
 ###### User Research 
 <p> After I finished the sketching of my visuals, it was important to take the time to see if the visuals were conveying the message that I wanted it to. In order to do this properly, I had to think of who my target audience is. I decided that the target audience that I would most benefit from seeing/hearing my story is civically mindeded individuals that believe in doing good for society. Upon determining my target auidence, I then identified a few people that would belong in that target audience. By attending a policy school, it was not at all difficult to find some. Ultimately, I asked three people for feedback on my storyboard and skethes: Mayo, Michael, and Temeca. I did not pick these three people by random, I had a strategy when it came to asking them for feedback. My reason for choosing Michael was because he is also taking the same Telling Stories with Data class and is learning the same principles as I am. Because he is learning the same principles I am, his feedback acted as a confirmation that I was incorporating all that we have learned so far. My reason for picking Mayo was because she was one of the students that took Telling Stories with Data from a different professor. Her professor was an employee at Deloitte that specialized in data visualization. By asking for her feedback, I wanted to see if I was incorporating other data visualization principles that might not be covered in this class. Lastly, I chose to ask Temeca for feedback because she is very committed to giving bakc to her community but does not have any background in renewable energy. By asking for her feedback, I wanted to ensure that someone who knew nothing about solar could understand the message I am trying to tell. </p> 
 
-*Interview Script*
+**Interview Script**
+<br> 
 Now that I identified the people who I would be asking feed back from, I had to determine what questions I was going to ask them. In order to make it the most casual and informal conversation, I only came up with two structured questions. Based on their responses, I wanted the freedom to be able to ask them questions specific to their answers. The two questions that I asked all three inviduals were: 
 1. What message do you get from this graphic? 
 2. What was the first thing that grabbed your attention and why? 
 
-*Feedback* 
+**Feedback** 
+<br>
 Insteading of quoting word for word, what the feedback was I wanted to give a general overview on common themes throughout all three responses. For the first sketch, the general consensus was that the visual was too busy. It was noted by all three individuals that there were a lot of numbers in the graphic and it was unclear what message they were supposed to get. Specifically, Temeca thought the focus would be on the larger slices of the pie chart as opposed to the small slice of renewable energy. 
