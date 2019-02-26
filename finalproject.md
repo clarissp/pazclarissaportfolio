@@ -36,4 +36,4 @@ For my second sketch I plan on keeping the map format with the addition of anoth
 
 **Final Touches** 
 <br> 
-After incorporating the feedback collected from my user research it was time to put all the pieces together. 
+After incorporating the feedback collected from my user research it was time to put all the pieces together. Despite having all the pieces that I initially wanted at the start of the project, I realized that some of the pieces were not fitting together. By this I mean that the flow of my story did not make sense. This was made even more evident after showing what I thought was my final version to a friend. My friend voiced concerns that my content was all over the place and was not sure who my intended audience. Throughout the process of putting this story together I realize I lost track of who my intended audeince was. It is for this reason that I created a persona. In order to do this I used a resource called Hubspot. This is the persona that I ended up ![creating](/Persona.png) 
